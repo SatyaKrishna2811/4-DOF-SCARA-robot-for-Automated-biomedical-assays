@@ -1,5 +1,3 @@
----
-
 # SCARA 4-DOF Robot: Kinematics & Dynamics Simulation
 
 This repository contains MATLAB simulations for a 4-DOF SCARA robot performing a pick-and-place task. It explores two different approaches to robotics: **Static Inverse Kinematics Optimization** and **Dynamic Trajectory Planning**.
